@@ -10,5 +10,3 @@ dist
 
 uploads/*
 !uploads/.gitkeep
-
-yarn.lock
